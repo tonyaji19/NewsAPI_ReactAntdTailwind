@@ -38,7 +38,7 @@ const Home = ({ datas }: { datas: any }) => {
         PORTAL BERITA
       </div>
       <p className="pb-5 font-montserrat text-center font-light text-xs">
-        Test Frontend PT.Eigen || Tony Aji Palguno
+        Frontend || Tony Aji Palguno
       </p>
       <div className="inline-flex items-center justify-center w-full">
         <hr className="w-64 h-[2px] my-8 bg-gray-200 border-0 rounded-xl " />
